@@ -1,0 +1,26 @@
+{
+  "name": "travel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Looshyo/Site4Travel.git"
+  },
+  "keywords": [
+    "Travel"
+  ],
+  "author": "Looshyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Looshyo/Site4Travel/issues"
+  },
+  "homepage": "https://github.com/Looshyo/Site4Travel#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
